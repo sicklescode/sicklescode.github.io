@@ -1,4 +1,4 @@
-# gfscode.github.io
+# sicklescode.github.io
 
 ### External Libraries
 #### `Prism.js` (MIT License)
